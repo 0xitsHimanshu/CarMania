@@ -1,4 +1,3 @@
 # CarMania
-This is first game that i upload to github 
+CarMania is 2D car endless runner game
 
-use Form1.cs top view the codes and form1 designer to gui
