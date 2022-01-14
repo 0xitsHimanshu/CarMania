@@ -1,0 +1,17 @@
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.exe
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.deps.json
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.runtimeconfig.json
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.runtimeconfig.dev.json
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.dll
+C:\Users\HIMANSHU\source\repos\Car mania\bin\Debug\netcoreapp3.1\Car mania.pdb
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car_mania.Form1.resources
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.csproj.GenerateResource.cache
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.AssemblyInfoInputs.cache
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.AssemblyInfo.cs
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.csproj.CoreCompileInputs.cache
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.dll
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.pdb
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.genruntimeconfig.cache
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car_mania.Properties.Resources.resources
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.csproj.AssemblyReference.cache
+C:\Users\HIMANSHU\source\repos\Car mania\obj\Debug\netcoreapp3.1\Car mania.GeneratedMSBuildEditorConfig.editorconfig
